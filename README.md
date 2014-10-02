@@ -15,3 +15,4 @@ html code
 ```
 <input type="input" id="testelement" />
 ```
+[Voorbeeld](http://jsfiddle.net/jorisros/0aqLp6rk/1/)
